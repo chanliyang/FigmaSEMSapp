@@ -1,5 +1,7 @@
 # Smart Energy Management System – Figma Prototype
 
+![App Preview](design/0 Overview.png)
+
 This repository contains a Figma-based UI prototype for a smart energy management system.
 
 ## 🔗 View the Figma Project
